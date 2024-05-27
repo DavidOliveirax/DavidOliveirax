@@ -1,7 +1,6 @@
-👋 Hi, I’m David
-🌱 I’m currently developing and learning JavaScript with Vue
-
 <p align="center">
+  👋 Hi, I’m David <br>
+  🌱 I’m currently developing and learning JavaScript with Vue <br>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=davidoliveirax&theme=radical&hide_border=true&background=FFFFFF00">
   
   <br>
