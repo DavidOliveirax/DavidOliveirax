@@ -1,6 +1,6 @@
 <p align="center">
   👋 Hi, I’m David <br>
-  🌱 I’m currently developing and learning JavaScript with Vue <br>
+  🌱 I'm currently learning cybersecurity and cloud infrastructure. <br>
   <img src ="https://github-readme-streak-stats.herokuapp.com?user=davidoliveirax&theme=radical&hide_border=true&background=FFFFFF00">
   
   <br>
